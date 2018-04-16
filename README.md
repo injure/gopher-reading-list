@@ -105,6 +105,7 @@ length.
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
 - [Structuring Applications for Growth](https://go-talks.appspot.com/github.com/gophercon/2016-talks/BenJohnson-StructuringApplicationsForGrowth/main.slide)
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
+  - Five must-haves for robust, debuggable production code.
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
