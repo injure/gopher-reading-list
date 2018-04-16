@@ -95,20 +95,23 @@ length.
 ### Code Design
 
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
-- [Aspects of a good Go library – Jack Lindamood – Medium](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
-- [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+- [ ] [Aspects of a good Go library – Jack Lindamood – Medium](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
+- [ ] [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+  - Dave
 - [Go Object Oriented Design](https://nathany.com/good/)
 - [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [x] [Golang: interface{}, type assertions and type switches](https://newfivefour.com/golang-interface-type-assertions-switch.html)
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
-- [Structuring Applications for Growth](https://go-talks.appspot.com/github.com/gophercon/2016-talks/BenJohnson-StructuringApplicationsForGrowth/main.slide)
-- [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
+- [ ] [Structuring Applications for Growth](https://go-talks.appspot.com/github.com/gophercon/2016-talks/BenJohnson-StructuringApplicationsForGrowth/main.slide)
+- [ ] [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
   - Five must-haves for robust, debuggable production code.
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
-- [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
-- [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [ ] [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
+  - Pike
+- [x] [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+  - Dave
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
 
 ### Concurrency
